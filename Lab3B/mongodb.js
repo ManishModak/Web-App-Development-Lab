@@ -1,7 +1,7 @@
 const { MongoClient } = require('mongodb');
 
-const username = "krishnapensalwar";
-const password = "Krish@19"; // Update with your actual password
+const username = "manishmt21040";
+const password = "nIXg4wOlEiqm5qbA"; // Update with your actual password
 const clusterName = "cluster0";
 const database = "student";
 
